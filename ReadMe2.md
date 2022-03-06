@@ -1,8 +1,8 @@
-# ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ReadMe Generator
+# ![License: MIT](https://img.shields.io/badge/License-Apache_2.0-blue.svg) Readme Generator
 
 ## Description
 
-Quickly and easily create a README file by using a command-line application to generate one.
+test
 
 ## Table of Contents
 
@@ -24,19 +24,19 @@ node index.js
 
 ## Usage
 
-To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+test
 
 ## Features
 
-Creates a high-quality, professional README file.
+test
 
 ## Contribution
 
-Create PR with changes with a new branch
+branching
 
 ## License
 
-![MIT license](license/MIT.PNG)
+![Apache license](license/Apache.PNG)
 
 ## Questions
 For any related questions please reachout at the email below.
